@@ -98,22 +98,13 @@ build/converter
 - `test_image/blur_10.png` — результат при радиусе `r = 10`.
 
 ### Исходное изображение
-
-```markdown
 ![Original image](test_image/lenna.png)
-```
 
 ### Результат размытия (r = 5)
-
-```markdown
 ![Blurred image (r=5)](test_image/blur_5.png)
-```
 
 ### Результат размытия (r = 10)
-
-```markdown
 ![Blurred image (r=10)](test_image/blur_10.png)
-```
 
 ---
 
