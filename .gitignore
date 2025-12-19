@@ -1,0 +1,16 @@
+# Build directory
+build/
+
+# CMake user-specific presets
+CMakeUserPresets.json
+
+# Common IDE / editor files
+.vscode/
+.idea/
+*.user
+*.user.*
+*.sln
+*.vcxproj*
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
